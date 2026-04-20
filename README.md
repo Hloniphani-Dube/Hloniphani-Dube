@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Hloniphani</h1>
+<h1 align="center">Hi , I'm Hloniphani</h1>
 <h3 align="center">Computer Science Student | Aspiring IT Professional</h3>
 
 <p align="center">
   <a href="[YOUR_LINKEDIN]">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="linkedin.com/in/hloniphani-dube-mlambo-39591b404" />
   </a>
   <a href="mailto:[YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
@@ -39,22 +39,6 @@
 - Java (Beginner)
 - Backend Development
 - AI & Machine Learning Basics
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR_USERNAME]&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=[YOUR_USERNAME]&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_USERNAME]&layout=compact&theme=tokyonight" alt="languages" />
-</p>
 
 ---
 
