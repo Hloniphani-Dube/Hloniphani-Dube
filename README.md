@@ -1,9 +1,9 @@
-<h1 align="center">Hi , I'm Hloniphani</h1>
+<h1 align="center">Hi 👋, I'm Hloniphani</h1>
 <h3 align="center">Computer Science Student | Aspiring IT Professional</h3>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN]">
-    <img src="linkedin.com/in/hloniphani-dube-mlambo-39591b404" />
+  <a href="linkedin.com/in/hloniphani-dube-mlambo-39591b404">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:[YOUR_EMAIL]">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
