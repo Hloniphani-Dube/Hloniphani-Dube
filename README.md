@@ -26,7 +26,7 @@ Enjoy building and learning new technologies every day
 ## Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,kotlin,java" />
+  <img src="https://skillicons.dev/icons?i=html,css,kotlin,javascript" />
 </p>
 
 ---
