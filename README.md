@@ -22,50 +22,41 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Currently pursuing a **Computer Science degree**
-- 💡 Interested in **Software Development, AI, and Cybersecurity**
-- 🛠 Building projects that strengthen practical problem-solving skills
-- 📚 Always learning new technologies and improving every day
+-  Currently pursuing a **Computer Science degree**
+-  Interested in **Software Development, AI, and Cybersecurity**
+-  Building projects that strengthen practical problem-solving skills
+-  Always learning new technologies and improving every day
 
 ---
 
-## 💻 Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,kotlin,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,git,github,vscode,vercel" />
 </p>
 
 ---
 
-## 📌 Current Focus
+##  Current Focus
 
-- ⚡ Front-end & full-stack development
-- 🤖 Exploring AI engineering concepts
-- 🔐 Cybersecurity fundamentals
-- 🧠 Strengthening Java and software engineering principles
+-  Front-end & full-stack development
+-  Exploring AI engineering concepts
+-  Cybersecurity fundamentals
+-  Strengthening Java and software engineering principles
 
 ---
 
-## 📊 GitHub Analytics
+##  GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hloniphani-Dube&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🌍 Featured Project
-
-### 🎮 Quiz Gamification Platform
-Interactive web-based quiz platform focused on engagement, learning, and user experience.
-
-🔗 **Live Demo:** https://quiz-gamification.vercel.app
-
----
-
 <p align="center">
-  <i>Building today for the opportunities of tomorrow.</i>
+   “Learning. Building. Improving.”
 </p>
