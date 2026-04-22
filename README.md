@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Passionate about building impactful software, learning emerging technologies, and growing through real-world projects.
+  Passionate about building impactful software, learning emerging technologies, and growing through real world projects. I want to be someone who grows through the IT feild.
 </p>
 
 <p align="center">
