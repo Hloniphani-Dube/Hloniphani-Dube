@@ -24,10 +24,7 @@
 
 ##  About Me
 
--  Currently pursuing a **Computer Science degree**
--  Interested in **Software Development, AI, and Cybersecurity**
--  Building projects that strengthen practical problem-solving skills
--  Always learning new technologies and improving every day
+I am a computer science student and have a big interest in software development. I also dive into AI and cybersecurity. Always learning new technologies and improving every day is something I make sure I achieve.  
 
 ---
 
@@ -41,10 +38,11 @@
 
 ##  Current Focus
 
--  Front-end & full-stack development
+-  Challenging myself with projects that improve how I think and solve problems.
 -  Exploring AI engineering concepts
 -  Cybersecurity fundamentals
--  Strengthening Java and software engineering principles
+-  Strengthening software engineering principles
+-  Studying courses to improve in the IT feild
 
 ---
 
