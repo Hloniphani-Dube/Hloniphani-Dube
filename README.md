@@ -5,10 +5,6 @@
 </p>
 
 <p align="center">
-  Focused on building clean, user-centered interfaces and currently expanding into back-end development and cybersecurity to become a well-rounded software developer.
-</p>
-
-<p align="center">
   <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
     <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin" />
   </a>
@@ -24,7 +20,7 @@
 
 ## About Me
 
-Computer Science student with a strong focus on front-end development and UI/UX design. Currently studying back-end development and cybersecurity to grow into a full-stack developer.
+Computer Science student with a strong focus on front-end development and UI/UX design. Currently studying back-end development and cybersecurity to grow into a full-stack developer. Focused on building clean, user-centered interfaces and currently expanding into back-end development and cybersecurity to become a well-rounded software developer.
 
 ---
 
