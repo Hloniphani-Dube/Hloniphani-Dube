@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Hloniphani</h1>
 
 <p align="center">
-  <b>Computer Science Student • Software Developer • AI & Cybersecurity Enthusiast</b>
+  <b>Front-End Developer & UI/UX Designer • Aspiring Full-Stack & Cybersecurity Specialist</b>
 </p>
 
 <p align="center">
-  Passionate about building impactful software, learning emerging technologies, and growing through real world projects. I want to be someone who grows through the IT feild.
+  Focused on building clean, user-centered interfaces and currently expanding into back-end development and cybersecurity to become a well-rounded software developer.
 </p>
 
 <p align="center">
@@ -22,31 +22,38 @@
 
 ---
 
-##  About Me
+## About Me
 
-I am a computer science student and have a big interest in software development. I also dive into AI and cybersecurity. Always learning new technologies and improving every day is something I make sure I achieve.  
+Computer Science student with a strong focus on front-end development and UI/UX design. Currently studying back-end development and cybersecurity to grow into a full-stack developer.
 
 ---
 
-##  Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,java,git,github,vscode,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,git,github,vercel,firebase" />
 </p>
 
 ---
 
-##  Current Focus
+## Currently Studying
 
--  Challenging myself with projects that improve how I think and solve problems.
--  Exploring AI engineering concepts
--  Cybersecurity fundamentals
--  Strengthening software engineering principles
--  Studying courses to improve in the IT feild
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,java" />
+</p>  
 
 ---
 
-##  GitHub Analytics
+## Current Focus
+
+- Building real-world projects  
+- Improving problem-solving skills  
+- Learning AI and cybersecurity fundamentals  
+- Strengthening software engineering principles  
+
+---
+
+## GitHub Analytics
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -56,5 +63,5 @@ I am a computer science student and have a big interest in software development.
 ---
 
 <p align="center">
-   “Learning. Building. Improving.”
+  “Learning. Building. Improving.”
 </p>
