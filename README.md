@@ -27,7 +27,7 @@ Computer Science student with a strong focus on front-end development and UI/UX 
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,reactnative,typescript,git,github,vercel,firebase" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,kotlin,react,typescript,git,github,vercel,firebase" />
 </p>
 
 ---
