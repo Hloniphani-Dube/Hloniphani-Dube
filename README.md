@@ -42,10 +42,11 @@ Computer Science student with a strong focus on front-end development and UI/UX 
 
 ## Current Focus
 
-- Building real-world projects  
-- Improving problem-solving skills  
-- Learning AI and cybersecurity fundamentals  
-- Strengthening software engineering principles  
+- Building responsive and visually strong front-end projects  
+- Improving UI/UX design thinking and user experience  
+- Developing back-end skills (Java & TypeScript)  
+- Learning cybersecurity fundamentals and best practices  
+- Strengthening problem-solving and software engineering skills  
 
 ---
 
