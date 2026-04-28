@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hloniphani</h1>
 
 <p align="center">
-  <b>Front-End Developer • Aspiring Full-Stack Dev & Cybersecurity Specialist</b>
+  <b>Full-Stack Developer • Mobile Development • Aspiring Full-Stack Developer specializing in Advanced React</b>
 </p>
 
 <p align="center">
