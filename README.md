@@ -20,8 +20,7 @@
 
 ## About Me
 
-Computer Science student with a strong focus on front-end development and UI/UX design. Currently studying back-end development and cybersecurity to grow into a full-stack developer. Focused on building clean, user-centered interfaces and currently expanding into back-end development and cybersecurity to become a well-rounded software developer.
-
+Computer Science student with a strong focus on front-end development and building software. Currently studying more advance in back-end development to grow into a software engineer.
 ---
 
 ## Tech Stack
@@ -34,11 +33,12 @@ Computer Science student with a strong focus on front-end development and UI/UX 
 
 ## Current Focus
 
-- Building responsive and visually strong front-end projects  
-- Improving UI/UX design thinking and user experience  
+- Building modern, responsive web and mobile applications using React and React Native
+- Improving UI/UX design 
 - Developing back-end skills (Java & TypeScript)  
 - Learning cybersecurity fundamentals and best practices  
-- Strengthening problem-solving and software engineering skills  
+- Strengthening problem-solving and software engineering skills
+- Expanding into full-stack development using Firebase and backend technologies (Node.js / TypeScript)
 
 ---
 
@@ -50,7 +50,3 @@ Computer Science student with a strong focus on front-end development and UI/UX 
 </p>
 
 ---
-
-<p align="center">
-  “Learning. Building. Improving.”
-</p>
