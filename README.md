@@ -21,6 +21,7 @@
 ## About Me
 
 Computer Science student with a strong focus on front-end development and building software. Currently studying more advance in back-end development to grow into a software engineer.
+
 ---
 
 ## Tech Stack
