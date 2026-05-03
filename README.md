@@ -46,7 +46,7 @@ Computer Science student with a strong focus on front-end development and buildi
 ## GitHub Analytics
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-README-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hloniphani-Dube&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
