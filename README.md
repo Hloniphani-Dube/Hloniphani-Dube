@@ -31,12 +31,3 @@ Computer Science student with a strong focus on front-end development and buildi
 </p>
 
 ---
-
-## Current Focus
-
-- Building modern, responsive web and mobile applications using React and React Native
-- Improving UI/UX design 
-- Developing back-end skills (Java & TypeScript)  
-- Learning cybersecurity fundamentals and best practices  
-- Strengthening problem-solving and software engineering skills
-- Expanding into full-stack development using Firebase and backend technologies (Node.js / TypeScript)
