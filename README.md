@@ -1,22 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hloniphani%20Dube&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=17&color=0D0D0D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hloniphani%20Dube&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=17&color=0D0D0D" width="100%" alt="Hloniphani Dube"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Always+learning.+Always+building." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Always+learning.+Always+building." alt="Typing introduction"/>
 
 <br><br>
 
 <a href="https://github.com/Hloniphani-Dube">
 <img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+
 <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
 <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 <a href="https://hloniphani-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+
 <a href="mailto:hloniphanidube.info@gmail.com">
 <img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
@@ -46,21 +49,20 @@ Building → Learning → Improving → Shipping
 <br><br>
 
 <img src="https://img.shields.io/badge/Claude%20Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+
 <img src="https://img.shields.io/badge/React%20Native-0D0D0D?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
 
 </div>
 
 ---
 
-## Currently
+## Currently Learning
 
-```text
-Full-Stack Development
-Backend Engineering
-Cybersecurity
-System Design
-Building Real-World Projects
-```
+<div align="center">
+
+`Full-Stack Development`   `Backend Engineering`   `Cybersecurity`   `System Design`
+
+</div>
 
 ---
 
@@ -68,9 +70,9 @@ Building Real-World Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="GitHub Stats"/>
-
-<img height="170" src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&background=0D0D0D&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub Streak"/>
+<a href="https://github.com/Hloniphani-Dube?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+</a>
 
 </div>
 
@@ -79,6 +81,10 @@ Building Real-World Projects
 <div align="center">
 
 **Build with purpose. Learn deeply. Ship continuously.**
+
+<br>
+
+Software Engineer • Full-Stack Developer • Builder
 
 </div>
 
