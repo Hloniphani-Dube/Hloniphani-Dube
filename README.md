@@ -1,91 +1,56 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hloniphani%20Dube&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=17&color=0D0D0D" width="100%" alt="Hloniphani Dube"/>
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Always+learning.+Always+building." alt="Typing introduction"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&color=0D0D0D" width="100%" alt="Hi"/>
 
 <br><br>
 
 <a href="https://github.com/Hloniphani-Dube">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="42" alt="GitHub"/>
 </a>
+
+  
 
 <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" alt="LinkedIn"/>
 </a>
+
+  
 
 <a href="https://hloniphani-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42" alt="Portfolio"/>
 </a>
+
+  
 
 <a href="mailto:hloniphanidube.info@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="42" alt="Email"/>
 </a>
-
-</div>
-
----
-
-## About Me
-
-I'm a **Software Engineer** focused on building software that solves real problems.
-
-I started with **Frontend Development & UI/UX** and I'm expanding into **Full-Stack Development, Backend Engineering, Databases, and Cybersecurity**.
-
-```text
-Building → Learning → Improving → Shipping
-```
-
----
-
-## Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,css,java,kotlin,python,supabase,firebase,git,github,docker,vercel&theme=dark" alt="Tech Stack"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Claude%20Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Always+learning.+Always+building." alt="Typing introduction"/>
 
-<img src="https://img.shields.io/badge/React%20Native-0D0D0D?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
-
-</div>
+<br><br>
 
 ---
 
-## Currently Learning
+### Currently Focusing On
 
-<div align="center">
+`Developing a UI Website`   `Learning Java`
+`Designing System Management Platforms`   `Building Real-World Software`
 
-`Full-Stack Development`   `Backend Engineering`   `Cybersecurity`   `System Design`
-
-</div>
-
----
-
-## GitHub
-
-<div align="center">
+<br><br>
 
 <a href="https://github.com/Hloniphani-Dube?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="Repositories"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Explore repositories"/>
 </a>
 
+<br><br>
+
+### `while(alive) { code(); }`
+
 </div>
-
----
-
-<div align="center">
-
-**Build with purpose. Learn deeply. Ship continuously.**
 
 <br>
-
-Software Engineer • Full-Stack Developer • Builder
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" width="100%" alt="Footer"/>
