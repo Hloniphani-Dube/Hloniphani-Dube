@@ -31,14 +31,6 @@ I build full-stack web and mobile products end to end â€” from database to UI â€
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3500&pause=1500&color=C3B091&background=00000000&center=true&vCenter=true&width=600&lines=99+little+bugs+in+the+code...;Take+one+down%2C+patch+it+around...;127+little+bugs+in+the+code+%F0%9F%90%9B" alt="Typing SVG" />
 
 <img src="https://komarev.com/ghpvc/?username=Hloniphani-Dube&style=flat-square&color=BDB76B&label=Profile+Views" />
