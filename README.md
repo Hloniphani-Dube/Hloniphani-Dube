@@ -1,109 +1,60 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58a6ff&height=220&section=header&text=Hloniphani%20Dube&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20%7C%20Mobile%20%7C%20Software%20Builder&descAlignY=56&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=150&section=header&text=Hloniphani%20Dube&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%7C%20Mobile%20%7C%20Software%20Builder&descAlignY=58&descSize=13" width="100%"/>
 
-<a href="https://github.com/Hloniphani-Dube">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Mobile+App+Developer;I+Build+Software;Turning+%E2%98%95+into+Code" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Mobile+App+Developer;I+Build+Software#gh-light-mode-only" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=ffffff&center=true&vCenter=true&width=560&lines=Full-Stack+Developer;Mobile+App+Developer;I+Build+Software#gh-dark-mode-only" alt="Typing SVG" />
 
 <br/>
 
 <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" />
 </a>
 <a href="mailto:hloniphanidube.info@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" />
 </a>
 <a href="https://hloniphani-portfolio.vercel.app">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" />
 </a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=Hloniphani-Dube&label=Profile%20Views&color=58a6ff&style=for-the-badge" />
-
 </div>
 
 <br/>
 
 <div align="center">
 
-### 🐍 The snake ate my commit history — again
+<sub><b>📈 commit activity</b></sub><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake.svg" />
-  <img alt="a snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake.svg" width="100%"/>
-</picture>
-
-<sub>⚠️ this only lights up after you add the one workflow file at the bottom — see setup note</sub>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&theme=tokyonight&hide_border=true" height="165"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hloniphani-Dube&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hloniphani-Dube&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&area_color=ffffff&hide_border=true&hide_title=true&height=280" width="100%"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hloniphani-Dube&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=000000&count_private=true" height="150"/>
+<img src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&background=000000&stroke=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=cccccc" height="150"/>
 
 </div>
 
 <div align="center">
 
-### 🏆 Trophy case
-
-<img src="https://github-profile-trophy.vercel.app/?username=Hloniphani-Dube&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8" />
-
-</div>
-
-<div align="center">
-
-### 🎲 Random dev joke, refreshes on every visit
-
-<img src="https://readme-jokes.vercel.app/api" width="450"/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:0f2027&height=100&section=footer"/>
-
-<sub>Thanks for stopping by — go build something 🚀</sub>
+<sub>thanks for stopping by — go build something 🚀</sub><br/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=60&section=footer"/>
 
 </div>
 
 <!--
-  SETUP NOTES (delete this comment block once everything is wired up, it's invisible on GitHub anyway)
+  SETUP NOTES (invisible on GitHub, safe to leave here)
 
-  1. This file only works as your GitHub PROFILE README if it lives in a public repo
-     named EXACTLY "Hloniphani-Dube" (your username) with README.md at the root.
-     If that repo doesn't exist yet: create it on GitHub, check "Add a README file",
-     then replace its contents with this file.
+  1. This repo must be public and named exactly "Hloniphani-Dube" with this file as README.md at the root.
+     That's it — every image below is a live URL with your username baked in, nothing to run
+     or configure. No GitHub Action, no workflow file.
 
-  2. Every image URL above already has your username (Hloniphani-Dube) baked in —
-     nothing else to edit for the stats/streak/languages/trophy/typing header.
+  2. Removed the trophy case and profile-view badge — the trophy widget
+     (github-profile-trophy.vercel.app) is a flaky third-party service that frequently fails
+     to load, and cutting it plus the view counter kept this shorter as requested. Say the word
+     if you want either added back.
 
-  3. The snake animation needs one extra step: add the file "snake.yml" (sent alongside
-     this one) to .github/workflows/snake.yml in that same repo, then in the repo's
-     Settings -> Actions -> General -> Workflow permissions, select "Read and write
-     permissions" and save. Run the workflow once manually from the Actions tab
-     ("generate profile snake animation" -> Run workflow) — after ~30 seconds it
-     creates an "output" branch with the animation, and the image above goes live.
-     It also regenerates automatically once a day after that.
-
-  4. If the stats/streak cards ever go blank (the free public services occasionally
-     get rate-limited), that's a known third-party outage, not a broken README —
-     it usually resolves on its own within a day. Self-hosting each service on your
-     own free Vercel account fixes it permanently if it keeps happening.
+  3. If the stats/streak/activity cards go blank occasionally, that's the free public API
+     getting rate-limited (common, not a broken file) — usually clears within a day.
 -->
