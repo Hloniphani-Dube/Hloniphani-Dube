@@ -1,8 +1,8 @@
+Agreed. We can make it much tighter and simply say **My Repositories**, with less vertical spacing throughout.
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hi&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=50&color=0D0D0D" width="100%" alt="Hi"/>
-
-<br><br>
 
 <a href="https://github.com/Hloniphani-Dube"><strong>GitHub</strong></a>
   •   <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404"><strong>LinkedIn</strong></a>
@@ -28,14 +28,12 @@
 
 <div align="center">
 
-<a href="https://github.com/Hloniphani-Dube?tab=repositories"><strong>→ Explore my repositories</strong></a>
+<a href="https://github.com/Hloniphani-Dube?tab=repositories"><strong>My Repositories</strong></a>
 
 <br><br>
 
 ### `while(alive) { code(); }`
 
 </div>
-
-<br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" width="100%" alt="Footer"/>
