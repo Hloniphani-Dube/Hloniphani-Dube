@@ -9,16 +9,16 @@
 <br><br>
 
 <a href="https://github.com/Hloniphani-Dube">
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
-<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://hloniphani-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="mailto:hloniphanidube.info@gmail.com">
-<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 
 </div>
@@ -29,7 +29,7 @@
 
 I'm a **Software Engineer** focused on building software that solves real problems.
 
-I started with **Frontend Development & UI/UX** and I'm expanding into **Full-Stack Development, Backend Engineering, Databases and Cybersecurity**.
+I started with **Frontend Development & UI/UX** and I'm expanding into **Full-Stack Development, Backend Engineering, Databases, and Cybersecurity**.
 
 ```text
 Building → Learning → Improving → Shipping
@@ -41,12 +41,12 @@ Building → Learning → Improving → Shipping
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,vite,css,java,kotlin,python,supabase,firebase,git,github,docker,vercel&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,css,java,kotlin,python,supabase,firebase,git,github,docker,vercel&theme=dark" alt="Tech Stack"/>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Claude%20Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=white"/>
-<img src="https://img.shields.io/badge/React%20Native-0D0D0D?style=for-the-badge&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Claude%20Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code"/>
+<img src="https://img.shields.io/badge/React%20Native-0D0D0D?style=for-the-badge&logo=react&logoColor=white" alt="React Native"/>
 
 </div>
 
@@ -68,13 +68,9 @@ Building Real-World Projects
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF" alt="GitHub Stats"/>
 
-<img height="170" src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&background=0D0D0D&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
-
-<br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hloniphani-Dube&bg_color=0D0D0D&color=FFFFFF&line=777777&point=FFFFFF&area=true&hide_border=true" width="95%"/>
+<img height="170" src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&background=0D0D0D&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777" alt="GitHub Streak"/>
 
 </div>
 
@@ -84,10 +80,6 @@ Building Real-World Projects
 
 **Build with purpose. Learn deeply. Ship continuously.**
 
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=Hloniphani-Dube&style=flat-square&color=0D0D0D&label=PROFILE+VIEWS"/>
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" width="100%" alt="Footer"/>
