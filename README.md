@@ -1,55 +1,93 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hloniphani%20Dube&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20Web%20Development%20%C2%B7%20Software%20Development&descAlignY=55&descAlign=50&descSize=17">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=200&section=header&text=Hloniphani%20Dube&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Development%20%C2%B7%20Web%20Development%20%C2%B7%20Software%20Development&descAlignY=55&descAlign=50&descSize=17">
-</picture>
+<div align="center">
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=FFFFFF&background=00000000&center=true&vCenter=true&width=600&lines=I+like+TypeScript;I+like+coding+games;I+like+building+cool+UI+websites;CSS+is+cool;Still+learning+Java;Getting+used+to+Python">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=18&pause=1200&color=000000&background=00000000&center=true&vCenter=true&width=600&lines=I+like+TypeScript;I+like+coding+games;I+like+building+cool+UI+websites;CSS+is+cool;Still+learning+Java;Getting+used+to+Python">
-  </picture>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hloniphani-Dube">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hloniphanidube.info@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://hloniphani-portfolio.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&section=header&text=Hloniphani%20Dube&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descAlign=50&descSize=17&color=0D0D0D" width="100%"/>
 
 <br>
 
-### Tech Stack
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Frontend+%E2%86%92+Backend+%E2%86%92+Full-Stack.;Always+learning.+Always+building." alt="Typing SVG"/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=css,js,kotlin,ts,git,github,vercel,firebase,java,supabase,docker,react&theme=dark" alt="Tech Stack">
-  <br>
-  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
-  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" alt="React Native">
-</p>
+<br><br>
+
+<a href="https://github.com/Hloniphani-Dube">
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
+<img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://hloniphani-portfolio.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="mailto:hloniphanidube.info@gmail.com">
+<img src="https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## About Me
+
+I'm a **Software Engineer** focused on building software that solves real problems.
+
+I started with **Frontend Development & UI/UX** and I'm expanding into **Full-Stack Development, Backend Engineering, Databases and Cybersecurity**.
+
+```text
+Building → Learning → Improving → Shipping
+```
+
+---
+
+## Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=ts,js,react,vite,css,java,kotlin,python,supabase,firebase,git,github,docker,vercel&theme=dark"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Claude%20Code-0D0D0D?style=for-the-badge&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/React%20Native-0D0D0D?style=for-the-badge&logo=react&logoColor=white"/>
+
+</div>
+
+---
+
+## Currently
+
+```text
+Full-Stack Development
+Backend Engineering
+Cybersecurity
+System Design
+Building Real-World Projects
+```
+
+---
+
+## GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=FFFFFF&text_color=AAAAAA&icon_color=FFFFFF"/>
+
+<img height="170" src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&background=0D0D0D&stroke=333333&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=777777"/>
 
 <br>
 
-### GitHub Status
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Hloniphani-Dube&bg_color=0D0D0D&color=FFFFFF&line=777777&point=FFFFFF&area=true&hide_border=true" width="95%"/>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="GitHub Stats">
-  <img height="165" src="https://streak-stats.demolab.com/?user=Hloniphani-Dube&hide_border=true&theme=dark&background=0D0D0D&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" alt="GitHub Streak">
-</p>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer">
-</picture>
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hloniphani-Dube&style=flat-square&color=000000&label=Profile+Views" alt="Profile Views">
-</p>
+<div align="center">
+
+**Build with purpose. Learn deeply. Ship continuously.**
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=Hloniphani-Dube&style=flat-square&color=0D0D0D&label=PROFILE+VIEWS"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0D0D0D" width="100%"/>
