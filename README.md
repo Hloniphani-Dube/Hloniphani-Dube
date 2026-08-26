@@ -30,26 +30,15 @@
 ### Tech Stack
 
 <p align="center">
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65">
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65">
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65">
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" width="65" height="65">
-  <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" alt="Tailwind CSS" width="65" height="65">
+  <img src="https://skillicons.dev/icons?i=css,js,kotlin,ts,git,github,vercel,firebase,java,supabase,docker,react&theme=dark" alt="Tech Stack">
+  <br>
+  <img src="https://img.shields.io/badge/Claude_Code-000000?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code">
+  <img src="https://img.shields.io/badge/React_Native-000000?style=flat-square&logo=react&logoColor=white" alt="React Native">
 </p>
 
 <br>
 
 ### GitHub Status
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hloniphani-Dube&theme=darkhub&no-frame=true&no-bg=false&row=1&column=7" alt="GitHub Trophies">
-</p>
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Hloniphani-Dube&show_icons=true&count_private=true&hide_border=true&theme=dark&bg_color=0D0D0D&title_color=FFFFFF&text_color=CCCCCC&icon_color=FFFFFF" alt="GitHub Stats">
