@@ -5,30 +5,21 @@
 <br><br>
 
 <a href="https://github.com/Hloniphani-Dube">
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" height="42" alt="GitHub"/>
-</a>
-
-  
-
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" height="38" alt="GitHub"/>
+</a>&nbsp;
 <a href="https://linkedin.com/in/hloniphani-dube-mlambo-39591b404">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" height="42" alt="LinkedIn"/>
-</a>
-
-  
-
+<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" height="38" alt="LinkedIn"/>
+</a>&nbsp;
 <a href="https://hloniphani-portfolio.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000" height="42" alt="Portfolio"/>
-</a>
-
-  
-
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="38" alt="Portfolio"/>
+</a>&nbsp;
 <a href="mailto:hloniphanidube.info@gmail.com">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="42" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" height="38" alt="Email"/>
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2800&pause=1000&color=888888&center=true&vCenter=true&width=650&lines=Building+software+that+makes+an+impact.;Turning+ideas+into+real+products.;Always+learning.+Always+building." alt="Typing introduction"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=888888&center=true&vCenter=true&width=700&lines=I+like+TypeScript.;Currently+learning+Java.;CSS+is+complicated.;Just+got+an+error.;Turning+ideas+into+working+software.;Building+something+cool...+probably.;Why+does+it+work%3F+Don't+touch+it.;One+bug+fixed.+Three+more+appeared." alt="Typing introduction"/>
 
 <br><br>
 
@@ -36,13 +27,15 @@
 
 ### Currently Focusing On
 
-`Developing a UI Website`   `Learning Java`
-`Designing System Management Platforms`   `Building Real-World Software`
+* Developing a modern UI website
+* Learning Java
+* Designing system management platforms
+* Building practical, real-world software
 
-<br><br>
+---
 
 <a href="https://github.com/Hloniphani-Dube?tab=repositories">
-<img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" height="42" alt="Explore repositories"/>
+<img src="https://img.shields.io/badge/Explore%20My%20Repositories-000000?style=for-the-badge&logo=github&logoColor=white" height="40" alt="Explore repositories"/>
 </a>
 
 <br><br>
