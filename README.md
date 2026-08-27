@@ -32,14 +32,6 @@
   </picture>
 </div>
 
----
-
-## Currently
-* Developing a modern UI website
-* Learning Java
-* Designing system management platforms
-* Building practical, real-world software
-
 <br>
 
 <div align="center">
