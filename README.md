@@ -1,4 +1,4 @@
-<h1 align="center">Hi</h1>
+<h1 align="center">Hi 👋</h1>
 
 <div align="center">
 
@@ -19,7 +19,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/658b0edfe4645bc725cb855f553d3ce485a446ba/wallpaper1.png" alt="" width="500">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/output/github-contribution-grid-snake.svg" width="500">
+  </picture>
 </div>
 
 ---
