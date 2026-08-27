@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋</h1>
+<h1 align="center">Hi</h1>
 
 <div align="center">
 
@@ -17,6 +17,12 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=2600&pause=900&color=888888&center=true&vCenter=true&width=700&lines=I+like+TypeScript.;Currently+learning+Java.;CSS+is+complicated.;Just+got+an+error.;Turning+ideas+into+working+software.;Building+something+cool...+probably.;Why+does+it+work%3F+Don't+touch+it.;One+bug+fixed.+Three+more+appeared." alt="Typing introduction"/>
 </div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hloniphani-Dube/Hloniphani-Dube/658b0edfe4645bc725cb855f553d3ce485a446ba/wallpaper1.png" alt="" width="500">
+</div>
+
+<br>
 
 <div align="center">
   <picture>
